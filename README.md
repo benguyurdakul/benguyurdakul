@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am **Bengü Yurdakul**, a 2nd year computer engineering student at Galatasaray University.
 
@@ -8,7 +8,7 @@ I am **Bengü Yurdakul**, a 2nd year computer engineering student at Galatasaray
 I have a special interest in AI, ML and Data Science.
 Currently working on different image processing projects and improving myself to be better.
 
-### Languages
+## Languages
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -16,22 +16,22 @@ Currently working on different image processing projects and improving myself to
 ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### My Youtube Lessons
+## My Youtube Lessons
 
-*PYTHON*
+*Python*
 -----
-[Youtube](https://www.youtube.com/watch?v=7E0DJkssPoE "Veri Tipleri")
-[Youtube](https://www.youtube.com/watch?v=bI4t6WfZmuQ "Operatörler")
-[Youtube](https://www.youtube.com/watch?v=T3SbddURcNc "String Metotları")
-[Youtube](https://www.youtube.com/watch?v=nUZkJAqMWzk "Substringler")
-[Youtube](https://www.youtube.com/watch?v=6HdsP_W6XHc "Input Alma")
-[Youtube](https://www.youtube.com/watch?v=7V18q9dDUZo "If Else")
+[Veri Tipleri](https://www.youtube.com/watch?v=7E0DJkssPoE "Veri Tipleri")
+[Operatörler](https://www.youtube.com/watch?v=bI4t6WfZmuQ "Operatörler")
+[String Metotları](https://www.youtube.com/watch?v=T3SbddURcNc "String Metotları")
+[Substringler](https://www.youtube.com/watch?v=nUZkJAqMWzk "Substringler")
+[Input Alma](https://www.youtube.com/watch?v=6HdsP_W6XHc "Input Alma")
+[If Else](https://www.youtube.com/watch?v=7V18q9dDUZo "If Else")
 
 *C*
 ----
-[Youtube](https://www.youtube.com/watch?v=xCfxyDqbVGo "Fonksiyonlar")
-[Youtube](https://www.youtube.com/watch?v=pVUrz4XZ9eU "Komut Satırı Argümanları")
-[Youtube](https://www.youtube.com/watch?v=Ks1C3eFoGSE "Ortam Değişkenleri")
+[Fonksiyonlar](https://www.youtube.com/watch?v=xCfxyDqbVGo "Fonksiyonlar")
+[Komut Satırı Argümanları](https://www.youtube.com/watch?v=pVUrz4XZ9eU "Komut Satırı Argümanları")
+[Ortam Değişkenleri](https://www.youtube.com/watch?v=Ks1C3eFoGSE "Ortam Değişkenleri")
 
 ### My Social Media Accounts
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/benguyurdakul/)
