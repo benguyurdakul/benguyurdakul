@@ -14,8 +14,24 @@ Currently working on different image processing projects and improving myself to
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
+### My Youtube Lessons
 
+*PYTHON*
+-----
+[Youtube](https://www.youtube.com/watch?v=7E0DJkssPoE "Veri Tipleri")
+[Youtube](https://www.youtube.com/watch?v=bI4t6WfZmuQ "Operatörler")
+[Youtube](https://www.youtube.com/watch?v=T3SbddURcNc "String Metotları")
+[Youtube](https://www.youtube.com/watch?v=nUZkJAqMWzk "Substringler")
+[Youtube](https://www.youtube.com/watch?v=6HdsP_W6XHc "Input Alma")
+[Youtube](https://www.youtube.com/watch?v=7V18q9dDUZo "If Else")
+
+*C*
+----
+[Youtube](https://www.youtube.com/watch?v=xCfxyDqbVGo "Fonksiyonlar")
+[Youtube](https://www.youtube.com/watch?v=pVUrz4XZ9eU "Komut Satırı Argümanları")
+[Youtube](https://www.youtube.com/watch?v=Ks1C3eFoGSE "Ortam Değişkenleri")
 
 ### My Social Media Accounts
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/benguyurdakul/)
