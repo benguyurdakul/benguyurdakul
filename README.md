@@ -18,8 +18,8 @@ Currently working on different image processing projects and improving myself to
 
 ## My Youtube Lessons
 
-*Python*
------
+*- Python*
+
 [Veri Tipleri](https://www.youtube.com/watch?v=7E0DJkssPoE "Veri Tipleri") :star:
 [Operatörler](https://www.youtube.com/watch?v=bI4t6WfZmuQ "Operatörler") :star:
 [String Metotları](https://www.youtube.com/watch?v=T3SbddURcNc "String Metotları") :star:
@@ -27,8 +27,8 @@ Currently working on different image processing projects and improving myself to
 [Input Alma](https://www.youtube.com/watch?v=6HdsP_W6XHc "Input Alma") :star:
 [If Else](https://www.youtube.com/watch?v=7V18q9dDUZo "If Else") :star:
 
-*C*
-----
+- *C*
+
 [Fonksiyonlar](https://www.youtube.com/watch?v=xCfxyDqbVGo "Fonksiyonlar") :star2:
 [Komut Satırı Argümanları](https://www.youtube.com/watch?v=pVUrz4XZ9eU "Komut Satırı Argümanları") :star2:
 [Ortam Değişkenleri](https://www.youtube.com/watch?v=Ks1C3eFoGSE "Ortam Değişkenleri") :star2:
