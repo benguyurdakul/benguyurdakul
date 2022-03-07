@@ -18,7 +18,7 @@ Currently working on different image processing projects and improving myself to
 
 ## My Youtube Lessons
 
-*- Python*
+- *Python*
 
 [Veri Tipleri](https://www.youtube.com/watch?v=7E0DJkssPoE "Veri Tipleri") :star:
 [Operatörler](https://www.youtube.com/watch?v=bI4t6WfZmuQ "Operatörler") :star:
