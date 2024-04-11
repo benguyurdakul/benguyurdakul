@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Bengü Yurdakul**, a senior computer engineering student at Galatasaray University.
+I am **Bengü Yurdakul**, a senior computer science student at Galatasaray University.
 
 In the first year, I founded Google Developer Student Club Galatasaray and became the leader of the club. Then I became a part of the Google DSC Core Mentors team as a Tensorflow & Cloud Mentor. 
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
